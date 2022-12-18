@@ -1,0 +1,4 @@
+django==4.1.4
+pillow==9.3.0
+stripe==5.0.0
+python-decouple==3.6
